@@ -11,6 +11,7 @@ I am a self-motivated data analyst with a background in microbiology. I am parti
 * 🧠  I'm currently learning Python programming.
 * 🤝  I'm open to collaborating on any data analysis project.
 * ⚡  I derive actionable insights from any type of dataset, even a messy dataset. I love numbers.
+* 📚  When I am not analyzing data, I am reading books.
 
 ### Skills
 
