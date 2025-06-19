@@ -1,16 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ezebekwu Maryrose, and I am your favorite data analyzer.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ezebekwu Maryrose, and I am your favorite data analytics consultant.
 =================================================================================================================================================================================
 
 Data Analyst
 ------------
 
-I am a self-motivated data analyst with a strong background in microbiology. I am particularly interested in using Microsoft Excel, PowerBi, and SQL to solve business problems.
+I am a self-motivated data analyst with a background in microbiology. I am particularly interested in using Microsoft Excel, Power BI, and SQL to solve business problems. Critical thinking and problem-solving are my core soft skills.
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [maryroseamara3@gmail.com](mailto:maryroseamara3@gmail.com)
-* 🧠  I'm learning Python programming
-* 🤝  I'm open to collaborating on Any data analysis project
-* ⚡  I am currently deriving actionable insights from kaggle datasets. I love numbers.
+* 🧠  I'm currently learning Python programming.
+* 🤝  I'm open to collaborating on any data analysis project.
+* ⚡  I derive actionable insights from any type of dataset, even a messy dataset. I love numbers.
 
 ### Skills
 
